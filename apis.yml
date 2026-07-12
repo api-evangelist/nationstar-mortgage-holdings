@@ -16,6 +16,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/nationstar-mortgage-holdings-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Nationstar
   - type: LinkedIn
@@ -24,6 +26,8 @@ common:
     type: Website
   - url: https://www.mrcooper.com
     type: Successor
+  - type: Blog
+    url: https://www.mrcooper.com/blog/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
