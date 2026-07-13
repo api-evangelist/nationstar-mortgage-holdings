@@ -1,0 +1,21 @@
+{
+  "repo": "nationstar-mortgage-holdings",
+  "feeds": [
+    {
+      "source": "https://www.mrcooper.com/blog/feed/",
+      "feed_url": "https://www.mrcooper.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.mrcooper.com",
+      "feed_url": "https://www.mrcooper.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 5
+}
