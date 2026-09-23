@@ -1,7 +1,9 @@
 ---
 title: Mr. Cooper announces new AI-driven mobile app for ...
 url: https://www.housingwire.com/articles/43324-mr-cooper-announces-new-ai-driven-mobile-app-for-homeowners/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nationstar Mortgage Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google

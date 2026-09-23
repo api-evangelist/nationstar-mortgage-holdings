@@ -1,7 +1,9 @@
 ---
 title: Mr. Cooper Launches New Mobile App to Bring the Power of AI ...
 url: https://www.chartmill.com/news/NSM/bizwire-2018-5-9-mr-cooper-launches-new-mobile-app-to-bring-the-power-of-ai-to-homeowners
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nationstar Mortgage Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google
